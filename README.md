@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CharlyMendoza7
 - 👀 I’m interested in programming and sports
-- 🌱 I’m currently learning intermediate java, python, javascript, php, sql
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me: my email is carlosmendoza1719@gmail.com
 
